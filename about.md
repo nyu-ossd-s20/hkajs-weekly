@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am Anthony, I like coding.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am ok at Java, Python, C, and not much else.
 
