@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Anthony, I like coding.
+Hi! I'm Anthony, I like coding.
 
 ### More Information
 
-I am ok at Java, Python, C, and not much else.
+In terms of programmming I'm ok at Java, Python, C.
 
