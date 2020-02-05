@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 2   | https://github.com/nyu-ossd-s20/wiki/wiki/OSSD-Participants    | course wiki    |   alphabetically ordered student names    |
 |     |     |     |      |
 |     |     |     |      |
