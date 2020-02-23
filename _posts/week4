@@ -1,0 +1,22 @@
+---
+layout: post
+title: Week 4 - Misc
+---
+
+This week we had a guest speaker come to talk to the class about open source in relation to databases. Sadly, I missed this talk because
+I am sick, so I am going to read some other blog posts that will hopefully shed some light on what Professor Engel talked about in class.
+
+Because I do not know yet what she talked about, I want to write about this cool open source project I learned about this week.
+
+RISC-V is a very interesting open source project that focuses on utilizing hardware, specifically it is an hardware instruction set architecture
+that microprocessors can utilize. This means that it is an instruction set which can be modified slightly or greatly, or not at all depenending
+on the uses that the user has for the cpu running the instructions. For example if lots of matrix multiplications are necessary for machine
+learning or other specific calculations are going to be necessary, changes can be made to utilize the microprocessor better without
+and legal issues. This is very cool in my opinion, but the coolest part is the educational positives of having an open source ISA.
+Due to legal issues, most university microprocessor architecture classes are forced to use toy architecture which oversimplify or
+misrepresent real architectures. Being able to modify, and redistribute this ISA is a godsend for this issue, as students are now
+able to work on a real system without any oversight of legality. This will have huge ramifications for the open source world as well.
+
+While it is not widespread in commercial use yet, this specific ISA is being used to teach microprocessor architecture to students 
+throughout the country, and hopefully once this generation of fresh computer scientists join research/the workforce, they will use this 
+open source platform and expand RISC-V for both personal, and commercial uses.
