@@ -1,0 +1,24 @@
+---
+layout: post
+title: Week 5 - Bloomberg Talk
+---
+
+Last class we had Kevin Fleming, a employee who works on Open Source projects at Bloomberg, come and speak to our class about the intersection
+between private companies and Open Source projects. It was really inspiring seeing the passion that he has for working with open source projects
+and learning about how Bloomberg interacts with the various open source projects that they are partnered with. The most interesting thing to
+me personally was the interest that Bloomberg seems to have in outreach projects meant to teach and foster communities of programmers who
+would otherwise be unable to have the resources to pursue a career in programming. It's really awesome in my opinion especially considering
+that there are so many new ideas and skills being brought to the table that would never have been there if this outreach did not exist. Very
+cool!
+
+Kevin also talked a little bit about the various services that the Bloomberg Terminal system requires to keep chugging along. Recently, due
+to a big data class I am in, I have become interested in distributed and cloud systems. Kevin talked a bit about how they utilize Apache
+Hadoop, and I have been dipping my toes in using the NYU Dumbo hadoop cluster so it was cool seeing that it is used in finance by companies
+such as Bloomberg. It would be extremely cool to contribute to a project as important and widespread as Hadoop but I bet it requires highly
+specific knowledge as to how the system works so I am unsure if I will have time to learn enough to even begin to contribute but I guess
+I will see.
+
+Another project that Bloomberg interacts with is Jupyter Notebook which I used in one of my intro classes. I remember it being very unwieldy
+and confusing to use at the time, but interestingly enough, Kevin spoke about how people have been working on the UI to make it more accessible
+and intuitive to the average person. Jupyter Notebook is another project I am very interested in, and it seems that the developer community
+behind it is very open and accessible, so perhaps it is another project I could potentially contribute to.
